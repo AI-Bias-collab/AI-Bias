@@ -14,10 +14,12 @@ Files Description
     Contains the instructions used for image rating
 
   Consolidated-data.xlsx
-    Contains consolidated data from rating
+    Contains all rating data--race and gender ratings for each photograph
 
   Visualizations.pdf
     Contains graphs produced during analysis
     Graphs were then used to formualte tables in the paper (done by hand, not code)
 
-
+  Images
+    Anonymous Github doesn't have enough storage to hold all the images, so we stored them on Zenodo: 
+      https://doi.org/10.5281/zenodo.14713573
