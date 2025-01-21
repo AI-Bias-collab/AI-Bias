@@ -10,4 +10,5 @@ AI Bias Image Generator.py
 requirements.txt
   Contains a list of Python libraries required to run the code in this repository
 
-
+Rating Guidelines.pdf
+  Contains the instructions used for image rating
