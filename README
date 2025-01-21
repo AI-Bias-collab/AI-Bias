@@ -17,6 +17,7 @@ Files Description
     Contains consolidated data from rating
 
   Visualizations.pdf
-    Contains graphs produced by visualizations.py
+    Contains graphs produced during analysis
+    Graphs were then used to formualte tables in the paper (done by hand, not code)
 
-  Visualizations.py
+
